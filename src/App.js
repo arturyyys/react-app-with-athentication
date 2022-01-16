@@ -8,4 +8,5 @@ function App() {
 
 export default App;
 
-// npm install react-router-dom@5
+// our-domain.com/ => Component A
+// our-domain.com/products => Component B
